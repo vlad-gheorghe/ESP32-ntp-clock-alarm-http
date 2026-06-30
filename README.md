@@ -1,4 +1,4 @@
-Original from  https://www.instructables.com/ESP32-C3-042-OLED-Clock-With-WiFi-NTP-Alarm-and-Ti/
+With thanks to the original creator, it is:  https://www.instructables.com/ESP32-C3-042-OLED-Clock-With-WiFi-NTP-Alarm-and-Ti/
 
 I only modified the main screen for my ST7789 display
 
