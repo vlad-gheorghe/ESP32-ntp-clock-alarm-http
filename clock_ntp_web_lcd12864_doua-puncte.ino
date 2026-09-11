@@ -28,11 +28,12 @@ WebServer server(80);
 #define LED_ACTIVE_LOW true
 
 // Inițializare Display
-U8G2_ST7565_EA_DOGM128_F_4W_HW_SPI u8g2(U8G2_R0, CS_PIN, DC_PIN, RST_PIN);
+//U8G2_ST7565_EA_DOGM128_F_4W_HW_SPI u8g2(U8G2_R0, CS_PIN, DC_PIN, RST_PIN); //lcd fara lumina
+U8G2_ST7565_JLX12864_1_4W_SW_SPI u8g2(U8G2_R0, 4, 6, 7, 3, 5); // amber-gold
 
 // ================= CONFIGURATION =================
-String defSSID = "Orange-2KRR-2.4G";           
-String defPASS = "3Xs9chzQ";  
+String defSSID = "ssid";           
+String defPASS = "pwd";  
 String defNTP = "pool.ntp.org";         
 long defGMTOffset = 3 * 3600;           
 long defDaylightOffset = 0;             
