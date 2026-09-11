@@ -17,3 +17,5 @@ clock_ntp_tft__ok3-1_canvas.ino is code version with changes to screen 1 and 2
 clock_ntp_web_lcd12864_doua-puncte.ino >>>>Same theme converted for 128x64 SPI LCD with ST7565
 
 ![poza](https://github.com/vlad-gheorghe/ESP32-ntp-clock-alarm-http/blob/main/IMG20260901210036.jpg)
+
+![poza](https://github.com/vlad-gheorghe/ESP32-ntp-clock-alarm-http/blob/main/IMG20260911163849.jpg)
