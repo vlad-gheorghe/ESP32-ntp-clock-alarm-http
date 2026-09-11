@@ -5,6 +5,7 @@ My adaptation was created with the help of Gemini AI.
 clock_ntp_tft__ok2_canvas_copy_20260630081638.ino is only modified the main screen for my ST7789 display
 
 clock_ntp_tft__ok3-1_canvas.ino is code version with changes to screen 1 and 2
+clock_ntp_web_lcd12864_doua-puncte.ino code for LCD
 
 ![poza](https://github.com/vlad-gheorghe/ESP32-ntp-clock-alarm-http/blob/main/IMG20260630075625.jpg)
 
